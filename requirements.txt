@@ -1,0 +1,7 @@
+# Add libraries here as you learn them, or run: pip freeze > requirements.txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
