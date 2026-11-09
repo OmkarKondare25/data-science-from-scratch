@@ -4,6 +4,8 @@ Notes and practice code from the *Complete Data Science, ML, DL, NLP Bootcamp* (
 
 **Goal:** Data scientist / ML engineer / GenAI engineer.
 
+**My notes:** [MY_NOTES.md](MY_NOTES.md) — doubts and answers outside the syllabus, commands, errors and fixes.
+
 ## Progress
 
 | Part | Topic | Status | Notes |
